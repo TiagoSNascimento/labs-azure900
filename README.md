@@ -2,6 +2,7 @@
 Desafio de Projeto - Localizando Serviços por Categoria
 
 
+
 📋 Passo a Passo para Navegar no Azure
 1. Acesse o Portal do Azure
 
